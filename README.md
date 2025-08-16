@@ -51,6 +51,4 @@ A Python FastAPI application that scrapes data from Shopify websites without usi
 
 
 
-## License
 
-MIT
